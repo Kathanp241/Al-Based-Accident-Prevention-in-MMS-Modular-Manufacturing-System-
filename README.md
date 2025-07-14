@@ -32,12 +32,11 @@ This project provides a real-time safety mechanism for Modular Manufacturing Sys
 | 1   | Arduino Uno            | 1        | Receives STOP/START from Python via USB           |
 | 2   | 5V Relay Module        | 1        | Switches 24V motor ON/OFF                         |
 | 3   | 24V DC Motor / Fan     | 1        | Represents drilling/fan station                   |
-| 4   | 24V SMPS Power Supply  | 1        | Powers motor independently                        |
-| 5   | USB Webcam             | 1        | Captures real-time video for detection            |
-| 6   | LED (Red)              | 1        | Glows when danger is detected                     |
-| 7   | Buzzer (5V)            | 1        | Sound alert when danger detected                  |
-| 8   | Breadboard + Wires     | Many     | Circuit connections                               |
-| 9   | Laptop or PC           | 1        | Runs Python code (YOLOv8/MediaPipe)               |
+| 4   | USB Webcam             | 1        | Captures real-time video for detection            |
+| 5   | LED (Red)              | 1        | Glows when danger is detected                     |
+| 6   | Buzzer (5V)            | 1        | Sound alert when danger detected                  |
+| 7   | Breadboard + Wires     | Many     | Circuit connections                               |
+| 8   | Laptop or PC           | 1        | Runs Python code (YOLOv8/MediaPipe)               |
 
 ---
 

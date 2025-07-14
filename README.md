@@ -51,6 +51,9 @@ This project provides a real-time safety mechanism for Modular Manufacturing Sys
 5. When danger clears, Python sends `START` to resume
 
 ---
+## 🧑‍🔧 Circuit Diagram
+
+<img width="1536" height="1024" alt="1000088346" src="https://github.com/user-attachments/assets/03d94a23-0e4d-4893-bf85-e1677ab5bf71" />
 
 ## 🧾 Installation
 
